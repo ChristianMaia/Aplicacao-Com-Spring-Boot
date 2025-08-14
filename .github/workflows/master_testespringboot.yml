@@ -59,5 +59,6 @@ jobs:
         with:
           app-name: 'TesteSpringBoot'
           slot-name: 'Production'
-          package: '*.jar'
+          package: 'demo-0.0.1-SNAPSHOT.jar'
+
           
